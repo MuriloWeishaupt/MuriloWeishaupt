@@ -5,11 +5,11 @@
 
 # 👋 Olá, eu sou o Murilo Weishaupt!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🔧 Técnico em Redes de Computadores formado pela Etec de Embu  
-💻 Cursando Técnico em Desenvolvimento de Sistemas  
-🚀 Apaixonado por tecnologia 
-🧠 Sempre buscando aprender e evoluir!
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+- 🔧 Técnico em Redes de Computadores formado pela Etec de Embu  
+- 💻 Cursando Técnico em Desenvolvimento de Sistemas  
+- 🚀 Apaixonado por tecnologia
+- 🧠 Sempre buscando aprender e evoluir!
 
 ---
 
