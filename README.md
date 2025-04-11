@@ -1,16 +1,53 @@
-## Hi there 👋
 
-<!--
-**MuriloWeishaupt/MuriloWeishaupt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./banner-github.png" alt="Murilo Weishaupt - Fullstack Developer" />
+</p>
 
-Here are some ideas to get you started:
+# 👋 Olá, eu sou o Murilo Weishaupt!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🔧 Técnico em Redes de Computadores formado pela Etec de Embu  
+💻 Cursando Técnico em Desenvolvimento de Sistemas  
+🚀 Apaixonado por tecnologia 
+🧠 Sempre buscando aprender e evoluir!
+
+---
+
+## 🧰 Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,python,mysql,mongodb,sqlite,js,html,css,git,github,vscode" />
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muriloweishaupt&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloweishaupt&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+## 🔥 Contribuições Recentes
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=muriloweishaupt&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
+## 📌 Principais Projetos
+
+- 🎯 Sistema de reserva de auditório - Node.js + MongoDB
+- ♾️ Construção de Pipeline CI/CD com Github Actions
+- 📦 Sistema de estoque com Flask + SQLite  
+- 🛠️ App de chamados de guincho (em desenvolvimento)  
+
+---
+
+## 📫 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/murilo-weishaupt)  
+- 📧 Email: muriloweishaupt@gmail.com  
